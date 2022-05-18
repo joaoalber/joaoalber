@@ -1,6 +1,6 @@
 ### Hi there, I'm João 👋
 
-### I'm a Backend Developer living in São Paulo, Brazil.
+### I'm a Software Engineer living in São Paulo, Brazil.
 
 - 🔭 I’m currently working on **-**
 - 🌱 I’m currently learning **Elixir**
