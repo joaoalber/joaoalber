@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer living in São Paulo, Brazil.
 
-- 🔭 I’m currently working on **RenoFi**
+- 🔭 I’m currently looking for a new opportunity
 - 👯 I’m looking to collaborate on **Web Applications**
 - 💬 Ask me about **Ruby/Rails**
 - 📫 How to reach me: **joaoalber.dev@gmail.com**
